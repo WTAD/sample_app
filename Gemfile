@@ -10,6 +10,7 @@ gem 'rails', '3.2.8'
 group :development do
   gem 'rspec-rails'
   gem 'sqlite3'
+  gem 'rb-readline'
 end
 
 group :test do
@@ -17,6 +18,7 @@ group :test do
   gem 'webrat'
   gem 'spork'
 end
+
 
 
 # Gems used only for assets and not required
