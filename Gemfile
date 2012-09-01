@@ -11,6 +11,7 @@ group :development do
   gem 'rspec-rails'
   gem 'sqlite3'
   gem 'rb-readline'
+  gem 'nokogiri'
 end
 
 group :test do

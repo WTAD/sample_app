@@ -126,6 +126,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  nokogiri
   rails (= 3.2.8)
   rb-readline
   rspec-rails
